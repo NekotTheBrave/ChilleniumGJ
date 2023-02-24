@@ -74,13 +74,13 @@ Plugins/*/Intermediate/*
 *.log
 *CrashReportClient.ini
 *DerivedDataCache/*
-*Chillenium/Saved/Config/Windows/EditorPerProjectUserSettings.ini
-*Chillenium/Saved/Autosaves/PackageRestoreData.json
-*Chillenium/Saved/Logs/Chillenium.log
-*Chillenium/Intermediate/CachedAssetRegistry.bin
-*Chillenium/Saved/Autosaves/PackageRestoreData.json
-*Chillenium/Saved/Config/CrashReportClient/UE4CC-Windows-BDB936B3427B4F26E0D7368830D9123E/CrashReportClient.ini
-*Chillenium/Saved/Config/Windows/EditorPerProjectUserSettings.ini
-*Chillenium/Saved/Logs/Chillenium-backup-2023.02.24-07.11.39.log
-*Chillenium/Saved/Config/CrashReportClient/UE4CC-Windows-61D755604A44E7186628BB917A60593E/CrashReportClient.ini
+*EditorPerProjectUserSettings.ini
+*PackageRestoreData.json
+*Chillenium.log
+*CachedAssetRegistry.bin
+*PackageRestoreData.json
+*UE4CC-Windows-BDB936B3427B4F26E0D7368830D9123E/CrashReportClient.ini
+*EditorPerProjectUserSettings.ini
+*Chillenium-backup-2023.02.24-07.11.39.log
+*CrashReportClient/UE4CC-Windows-61D755604A44E7186628BB917A60593E/CrashReportClient.ini
 
