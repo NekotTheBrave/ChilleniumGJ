@@ -72,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Chillenium/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+Chillenium/Saved/Autosaves/PackageRestoreData.json
+Chillenium/Saved/Logs/Chillenium.log
