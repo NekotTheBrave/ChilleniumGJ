@@ -40,7 +40,8 @@
 		{
 			"ShaderMapHash": "7B48EFA7785D362B0DE4CE89C337822BE851F69E",
 			"Assets": [
-				"/OculusVR/Materials/TouchForQuestRiftSControllerMaterial"
+				"/OculusVR/Materials/TouchForQuestRiftSControllerMaterial",
+				"/Game/Megascans/Surfaces/Fine_Road_vgdlejpew/Albedo_4K_vgdlejpew_Mat"
 			]
 		},
 		{
@@ -267,11 +268,25 @@
 			]
 		},
 		{
+			"ShaderMapHash": "E2594C7177F0AFFF39681F1DEE31AADBD1C2888F",
+			"Assets": [
+				"/Game/CustomContent/Character/MainCharacter/Man_Red",
+				"/Game/CustomContent/Character/MainCharacter/Man_Gold",
+				"/Game/CustomContent/Character/Monster/MonsterTexture"
+			]
+		},
+		{
+			"ShaderMapHash": "8D5C9971654E22D92212E61C55D92EEA6D6F673A",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "E8085265C9896B4A7C1DB71134D503F7A3E8E563",
 			"Assets": [
 				"/Game/RetroGraphics/Materials/M_Mesh_Master",
-				"/Game/GGProjectExamples/Blueprints/Weapons/ShotgunPSX",
-				"/Game/GGProjectExamples/Blueprints/Weapons/PistolsPSX"
+				"/Game/GGProjectExamples/Blueprints/Weapons/PistolsPSX",
+				"/Game/GGProjectExamples/Blueprints/Weapons/ShotgunPSX"
 			]
 		},
 		{
@@ -313,27 +328,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "8D5C9971654E22D92212E61C55D92EEA6D6F673A",
-			"Assets": [
-				"/Engine/BasicShapes/BasicShapeMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "654DCFE485423A411E123F7DDDBF2AFBA838AC59",
 			"Assets": [
 				"/Game/GGProjectExamples/UserInterface/RenderTarget/MeshRenderTarget_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "719AB780A1912A1C4C1A7B1D5A158485B14842EC",
-			"Assets": [
-				"/Game/Mannequin/Character/Materials/M_Male_Body"
-			]
-		},
-		{
-			"ShaderMapHash": "B47CABED7A4537AAD9D04F5ACC70AD3D4BE7AE99",
-			"Assets": [
-				"/Game/Mannequin/Character/Materials/M_UE4Man_ChestLogo"
 			]
 		},
 		{
@@ -355,9 +352,76 @@
 			]
 		},
 		{
+			"ShaderMapHash": "888FA0F09A6717FBC98CAEA29DA8E745A869D8EE",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Water_Ocean"
+			]
+		},
+		{
+			"ShaderMapHash": "DF22970824430D8A3AD2C0266C312E0A6E0BC7A9",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Basic_Wall",
+				"/Game/StarterContent/Materials/M_Basic_Wall1"
+			]
+		},
+		{
 			"ShaderMapHash": "801695B573595E0ABB3374666E6BFAA38A923B67",
 			"Assets": [
 				"/Game/ThirdPerson/Meshes/RampMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "468EDDE68237A09F62EB3D2329C6A7390E33703B",
+			"Assets": [
+				"/Game/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_ChestLogo"
+			]
+		},
+		{
+			"ShaderMapHash": "2524E59EDDE86EBC656244D4464E6F6FCAF92343",
+			"Assets": [
+				"/Game/Props/Textures/Door"
+			]
+		},
+		{
+			"ShaderMapHash": "93F228320C0BD3D3614C34DBC4C29C9D148F2EDA",
+			"Assets": [
+				"/Game/FirstPerson/Meshes/BaseMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7861D069C844DDC7B71CF1F27CBA685EAAA73D54",
+			"Assets": [
+				"/Game/Lights_Nehal/Materials/flicker/flicker"
+			]
+		},
+		{
+			"ShaderMapHash": "74D5E92BFF86FB12C1267DEA5DB3E83983189B76",
+			"Assets": [
+				"/Game/WaterMaterials/Materials/M_Water_Clean_Cheaper"
+			]
+		},
+		{
+			"ShaderMapHash": "A10592ABD94292339FA07E7160038940E3945246",
+			"Assets": [
+				"/Game/Lights_Nehal/Materials/Emissive/Emissive"
+			]
+		},
+		{
+			"ShaderMapHash": "45FD6D6BA601E5DB9128E94CB19D3F55698F9AD6",
+			"Assets": [
+				"/Game/MSPresets/Decal_MasterMaterial/Decal_MasterMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D358A4BC6C96B5984BFB66FB45FDECB3B6917525",
+			"Assets": [
+				"/Game/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "9EE649D3990947B4DABF36F21CD87BED0CC0C3A9",
+			"Assets": [
+				"/Game/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_Body"
 			]
 		}
 	]
