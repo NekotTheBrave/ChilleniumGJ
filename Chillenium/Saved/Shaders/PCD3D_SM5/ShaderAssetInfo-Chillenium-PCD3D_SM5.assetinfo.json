@@ -282,58 +282,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "E8085265C9896B4A7C1DB71134D503F7A3E8E563",
-			"Assets": [
-				"/Game/RetroGraphics/Materials/M_Mesh_Master",
-				"/Game/GGProjectExamples/Blueprints/Weapons/PistolsPSX",
-				"/Game/GGProjectExamples/Blueprints/Weapons/ShotgunPSX"
-			]
-		},
-		{
-			"ShaderMapHash": "BE009093AFED865BC4E39A6002509DDDDF832735",
-			"Assets": [
-				"/Game/Geometry/Meshes/CubeMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "C915A05153633DA62584F8B184995F209D20C7CA",
-			"Assets": [
-				"/Game/GGProjectExamples/Blueprints/Pickups/Meshes/LargeMedKit/FirstAidKitLargePSX",
-				"/Game/GGProjectExamples/Blueprints/Pickups/Meshes/SmallMedkit/FirstAidKitSmallPSX",
-				"/Game/GGProjectExamples/Blueprints/Pickups/Meshes/Holsters/HolstersPSX"
-			]
-		},
-		{
-			"ShaderMapHash": "DEDE26F88B75F9D08E4FBEA1B65B8F32EC1F081D",
-			"Assets": [
-				"/Game/RetroGraphics/Materials/M_LightBillboard"
-			]
-		},
-		{
-			"ShaderMapHash": "E01D53C1D3F1E941EA5B00DD1ECFA313E815C542",
-			"Assets": [
-				"/Game/RetroGraphics/DemoContent/Materials/M_Triangle"
-			]
-		},
-		{
-			"ShaderMapHash": "0756FA0FECAD73050A85737BBEB4E052AE016269",
-			"Assets": [
-				"/Game/RetroGraphics/Materials/M_LensFlare_Master"
-			]
-		},
-		{
-			"ShaderMapHash": "A6C6EAFA28099D1EB68DB9843BF1309DF7ED8B0F",
-			"Assets": [
-				"/Game/RetroGraphics/DemoContent/Materials/Instances/MI_LensFlare"
-			]
-		},
-		{
-			"ShaderMapHash": "654DCFE485423A411E123F7DDDBF2AFBA838AC59",
-			"Assets": [
-				"/Game/GGProjectExamples/UserInterface/RenderTarget/MeshRenderTarget_Mat"
-			]
-		},
-		{
 			"ShaderMapHash": "6D966E5C41CF95F7429D1D0F70508D19DCFA4D60",
 			"Assets": [
 				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
@@ -346,58 +294,16 @@
 			]
 		},
 		{
-			"ShaderMapHash": "C380564A6414222F6A7E5F57D0F14982D5FD4F14",
+			"ShaderMapHash": "D358A4BC6C96B5984BFB66FB45FDECB3B6917525",
 			"Assets": [
-				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
-			]
-		},
-		{
-			"ShaderMapHash": "888FA0F09A6717FBC98CAEA29DA8E745A869D8EE",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Water_Ocean"
+				"/Game/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial"
 			]
 		},
 		{
 			"ShaderMapHash": "DF22970824430D8A3AD2C0266C312E0A6E0BC7A9",
 			"Assets": [
-				"/Game/StarterContent/Materials/M_Basic_Wall",
-				"/Game/StarterContent/Materials/M_Basic_Wall1"
-			]
-		},
-		{
-			"ShaderMapHash": "801695B573595E0ABB3374666E6BFAA38A923B67",
-			"Assets": [
-				"/Game/ThirdPerson/Meshes/RampMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "468EDDE68237A09F62EB3D2329C6A7390E33703B",
-			"Assets": [
-				"/Game/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_ChestLogo"
-			]
-		},
-		{
-			"ShaderMapHash": "2524E59EDDE86EBC656244D4464E6F6FCAF92343",
-			"Assets": [
-				"/Game/Props/Textures/Door"
-			]
-		},
-		{
-			"ShaderMapHash": "93F228320C0BD3D3614C34DBC4C29C9D148F2EDA",
-			"Assets": [
-				"/Game/FirstPerson/Meshes/BaseMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "7861D069C844DDC7B71CF1F27CBA685EAAA73D54",
-			"Assets": [
-				"/Game/Lights_Nehal/Materials/flicker/flicker"
-			]
-		},
-		{
-			"ShaderMapHash": "74D5E92BFF86FB12C1267DEA5DB3E83983189B76",
-			"Assets": [
-				"/Game/WaterMaterials/Materials/M_Water_Clean_Cheaper"
+				"/Game/StarterContent/Materials/M_Basic_Wall1",
+				"/Game/StarterContent/Materials/M_Basic_Wall"
 			]
 		},
 		{
@@ -413,15 +319,51 @@
 			]
 		},
 		{
-			"ShaderMapHash": "D358A4BC6C96B5984BFB66FB45FDECB3B6917525",
+			"ShaderMapHash": "C380564A6414222F6A7E5F57D0F14982D5FD4F14",
 			"Assets": [
-				"/Game/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial"
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
 			]
 		},
 		{
-			"ShaderMapHash": "9EE649D3990947B4DABF36F21CD87BED0CC0C3A9",
+			"ShaderMapHash": "74D5E92BFF86FB12C1267DEA5DB3E83983189B76",
 			"Assets": [
-				"/Game/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_Body"
+				"/Game/WaterMaterials/Materials/M_Water_Clean_Cheaper"
+			]
+		},
+		{
+			"ShaderMapHash": "888FA0F09A6717FBC98CAEA29DA8E745A869D8EE",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Water_Ocean"
+			]
+		},
+		{
+			"ShaderMapHash": "7861D069C844DDC7B71CF1F27CBA685EAAA73D54",
+			"Assets": [
+				"/Game/Lights_Nehal/Materials/flicker/flicker"
+			]
+		},
+		{
+			"ShaderMapHash": "2524E59EDDE86EBC656244D4464E6F6FCAF92343",
+			"Assets": [
+				"/Game/Props/Textures/Door"
+			]
+		},
+		{
+			"ShaderMapHash": "93F228320C0BD3D3614C34DBC4C29C9D148F2EDA",
+			"Assets": [
+				"/Game/FirstPerson/Meshes/BaseMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "801695B573595E0ABB3374666E6BFAA38A923B67",
+			"Assets": [
+				"/Game/ThirdPerson/Meshes/RampMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "BE009093AFED865BC4E39A6002509DDDDF832735",
+			"Assets": [
+				"/Game/Geometry/Meshes/CubeMaterial"
 			]
 		}
 	]
